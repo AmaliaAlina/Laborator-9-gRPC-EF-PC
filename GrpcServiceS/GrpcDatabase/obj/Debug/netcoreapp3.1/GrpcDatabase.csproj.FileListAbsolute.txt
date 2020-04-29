@@ -1,0 +1,5 @@
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-9-gRPC-EF-PC\GrpcServiceS\GrpcDatabase\bin\Debug\netcoreapp3.1\GrpcDatabase.deps.json
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-9-gRPC-EF-PC\GrpcServiceS\GrpcDatabase\bin\Debug\netcoreapp3.1\GrpcDatabase.dll
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-9-gRPC-EF-PC\GrpcServiceS\GrpcDatabase\obj\Debug\netcoreapp3.1\GrpcDatabase.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-9-gRPC-EF-PC\GrpcServiceS\GrpcDatabase\obj\Debug\netcoreapp3.1\GrpcDatabase.AssemblyInfoInputs.cache
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-9-gRPC-EF-PC\GrpcServiceS\GrpcDatabase\obj\Debug\netcoreapp3.1\GrpcDatabase.AssemblyInfo.cs
